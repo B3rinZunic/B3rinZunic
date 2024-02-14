@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Machine Learning on Udemy, also I have knowledge in C and C++ but I never know how to implement them.
 - 💞️ I’m looking to collaborate on every project that gives me some experience and knowledge. 
 - 📫 How to reach me: You can send me a message by emailing on "berinzuni@gmail.com"
-- 😄 Pronouns: It is the same as Berlin just without the 'L'
+- 😄 Pronouns: He
 - ⚡ Fun fact: I am a student at the International University of Sarajevo-Computer Science and my hobby is MMA 
 
 <!---
